@@ -1,6 +1,11 @@
 fastapi
 uvicorn
-pandas
-scikit-learn
+pydantic
 xgboost
+scikit-learn
+pandas
+numpy
 joblib
+imbalanced-learn
+matplotlib
+seaborn
